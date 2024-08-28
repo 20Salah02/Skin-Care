@@ -218,6 +218,48 @@ const products = {
         "description": "VitalEssence Anti-Aging Serum AS480 delivers advanced anti-aging benefits, helping to smooth wrinkles and firm the skin. Its potent formula nourishes the skin deeply, leaving it looking rejuvenated and youthful. Ideal for those seeking to maintain a youthful glow.",
         "price": "$45"
     },
+
+//BODY //
+
+    //BODY WASH
+
+    "body1": {
+        "image": "img/120017194alt4.jpg",
+        "name": "OUAI BODY CREAM MELROSE PLACE",
+        "description": "Inspired by the elegance and charm of Melrose Place, the OUAI Body Cream envelops your skin in luxurious hydration. Its rich, creamy texture absorbs effortlessly, leaving the skin feeling velvety soft and deeply nourished. Infused with a signature blend of rose, bergamot, and white musk",
+        "price": "$40"
+    },
+    "body2": {
+        "image": "img/ouaib3001913153_1665074214839_2-0._QL90_UX564_.jpg",
+        "name": "OUAI ST. BARTS CLEANSING SCALP",
+        "description": "Transport yourself to the tropical paradise of St. Barts with OUAI's Cleansing Scalp treatment. This innovative formula works to purify and invigorate the scalp, removing buildup and excess oil while delivering a refreshing burst of hydration. Infused with coconut, passion fruit, and dragon fruit,",
+        "price": "$40"
+    },
+    "body3": {
+        "image": "img/SBM_Site_Asset_PDP_Product_Lifestyle_Images_Desktop_1600x1620_9 secend.jpg",
+        "name": "OUAI BODY CRÈME",
+        "description": "The OUAI Body Crème offers a luxurious escape for your skin, providing intense hydration with a non-greasy finish. Crafted with nourishing ingredients, this body crème melts into the skin, leaving it feeling smooth, supple, and beautifully scented.",
+        "price": "$38"
+    },
+    "body4": {
+        "image": "img/auiooq.jpg",
+        "name": "OUAI BODY CRÈME ST. BARTS",
+        "description": "Indulge in the exotic allure of St. Barts with OUAI's Body Crème, a rich and hydrating cream that transforms your skin. Its velvety formula absorbs quickly, providing deep nourishment and leaving the skin with a soft, glowing finish. ",
+        "price": "$38"
+    },
+    "body5": {
+        "image": "img/SBM_Site_Asset_PDP_Product_Lifestyle_Images_Desktop_1600x1620_8.jpg",
+        "name": "OUAI ST. BARTS CLEANSING SCALP",
+        "description": "Immerse your senses in the vibrant essence of St. Barts with the OUAI Cleansing Scalp treatment. Designed to cleanse and refresh, this formula effectively removes impurities and buildup, revitalizing both your scalp and hair. The exotic fragrance blend of coconut and dragon fruit offers a tropical escape, leaving you with clean, refreshed, and pleasantly scented hair.",
+        "price": "$40"
+    },
+    "body6": {
+        "image": "img/120017194alt3-secend.jpg",
+        "name": "OUAI BODY CREAM MELROSE PLACE",
+        "description": "The OUAI Body Cream Melrose Place is a tribute to elegance and sophistication, offering deep hydration with a luxurious feel. This body cream is enriched with a delicate fragrance of rose, bergamot, and white musk, leaving your skin not only nourished but also beautifully scented.",
+        "price": "$40"
+    },
+
 };
 
 // Function to get URL parameter
@@ -243,3 +285,12 @@ function loadProduct() {
 
 // Initialize the page
 document.addEventListener('DOMContentLoaded', loadProduct);
+
+
+
+
+
+
+
+////
+
