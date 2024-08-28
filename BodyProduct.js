@@ -143,7 +143,7 @@ const products = {
 
     //TONER
 
-    "troner1": {
+    "toner1": {
         "image": "img/07a17ca44d0756049ecd9ae4e6b72596.jpg",
         "name": "VitalMist Balancing Toner BT250",
         "description": "Achieve balance and refreshment with VitalMist Balancing Toner. This toner is designed to hydrate and harmonize your skin’s pH levels, preparing it for the next steps in your skincare routine. Its invigorating mist offers an instant boost of freshness and vitality.",
